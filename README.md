@@ -5,7 +5,7 @@ this is made for discord, if you arent using discord then you probably have to m
 Discord has to be closed for the changes to take place that is why the script kills it, just open it again after the script runs
 the vive script *should* not need to be changed
 
-for headphones just edit where it is specified, pretty self explanitory, put in the name of your headphone source
+for headphones just edit where it is specified, pretty self explanitory, put in the name of your headphone source only delete the stuff inside of the quotes not the "" marks themselves
 
 ---*to find your headphone source*---
 
