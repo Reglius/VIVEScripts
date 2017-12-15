@@ -1,6 +1,6 @@
-nircmd setdefaultsounddevice "Digital Audio (S/PDIF)" 1
-nircmd setdefaultsounddevice "Digital Audio (S/PDIF)" 2
-nircmd setdefaultsounddevice "Line" 1
-nircmd setdefaultsounddevice "Line" 2
+nircmd setdefaultsounddevice "*insert headphone name here*" 1
+nircmd setdefaultsounddevice "*insert headphone name here*" 2
+nircmd setdefaultsounddevice "*insert microphone name here*" 1
+nircmd setdefaultsounddevice "*insert microphone name here*" 2
 taskkill /f /im Discord.exe
 @pause 
