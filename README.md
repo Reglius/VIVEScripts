@@ -7,7 +7,7 @@ the vive script should not need to be changed
 
 for headphones just edit where it is specified, pretty self explanitory, put in the name of your headphone source
 
-VVV *to find your headphone source* VVV
+---*to find your headphone source*---
 
 right click on speaker icon on bottom right of screen > playback devices > which ever one is checked with a green mark > copy that name to headphone part
 
